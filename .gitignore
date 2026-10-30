@@ -1,0 +1,19 @@
+#OS generated files (Junk)
+.DS_Store
+Thumbs.db
+
+#VS code settings
+.vscode/
+
+#log files
+*.log
+npm-debug.log*
+
+#Environment variables (never commit this)
+.env
+.env local
+.env production
+
+node_modules/
+dist/
+build/
